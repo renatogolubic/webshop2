@@ -1,0 +1,10 @@
+INSERT INTO products (name, description, price, image_url) VALUES
+('Laptop Dell XPS 13', 'Kompaktan laptop s Intel i7, 16GB RAM, 512GB SSD', 12999.99, '/images/dell_xps13.jpg'),
+('Monitor LG UltraWide 34"', '34-inčni 4K monitor za multitasking', 5499.99, '/images/lg_ultrawide.jpg'),
+('Miš Logitech MX Master 3', 'Ergonomski bežični miš s prilagodljivim gumbima', 999.99, '/images/mx_master3.jpg'),
+('Tipkovnica Keychron K8', 'Mehanička tipkovnica s RGB osvjetljenjem', 799.99, '/images/keychron_k8.jpg'),
+('SSD Samsung 1TB', 'Brzi NVMe SSD za pohranu podataka', 1499.99, '/images/samsung_ssd.jpg'),
+('Procesor AMD Ryzen 7 5800X', '8-jezgreni procesor za gaming i rad', 3499.99, '/images/ryzen_5800x.jpg'),
+('Grafička kartica NVIDIA RTX 3080', 'High-end GPU za 4K gaming', 7999.99, '/images/rtx_3080.jpg'),
+('Matična ploča ASUS ROG Strix', 'ATX ploča s podrškom za Ryzen procesore', 2499.99, '/images/asus_rog_strix.jpg'),
+('Napajanje Corsair 750W', '80+ Gold certificirano modularno napajanje', 1299.99, '/images/corsair_750w.jpg'),
